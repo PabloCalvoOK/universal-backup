@@ -14,7 +14,7 @@ The platform must allow adding new cloud providers to the backup platform accord
 There may be more than one cloud provider in a complex customer installation; Each of these cloud providers markets different types of applications in three modalities: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS). 
 
 <p align="center">
-<img src=".img/Platform design guidelines.png" alt="File-based use case diagram" width="400">
+<img src=".img/Platform design guidelines.png" alt="Platform design guidelines" width="400">
 </p>
 
 These providers or third-party manufacturers provide applications;  we will call these applications use cases; a use case is a  business application chosen by an organization to process its data. 
@@ -44,6 +44,6 @@ Air-gapping to protect against ransomware attacks.
 
 
 <p align="center">
-<img src=".img/How to solve it.png.png" alt="File-based use case diagram" width="400">
+<img src=".img/How to solve it.png" alt="How to solve it" width="400">
 </p>
 
