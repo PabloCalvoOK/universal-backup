@@ -42,3 +42,8 @@ Air-gapping to protect against ransomware attacks.
 
 - Replication to protect against disasters.
 
+
+<p align="center">
+<img src=".img/How to solve it.png.png" alt="File-based use case diagram" width="400">
+</p>
+
