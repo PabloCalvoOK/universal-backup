@@ -44,6 +44,6 @@ Air-gapping to protect against ransomware attacks.
 
 
 <p align="center">
-<img src=".img/How to solve it.png" alt="How to solve it" width="400">
+<img src=".img/How to solve it.png" alt="How to solve it" width="1200">
 </p>
 
