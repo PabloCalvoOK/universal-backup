@@ -15,6 +15,6 @@ The platform must allow adding new cloud providers to the backup platform accord
 There may be more than one cloud provider in a complex customer installation; Each of these cloud providers markets different types of applications in three modalities: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS). 
 
 <p align="center">
-<img src=".img/bkp-proxy_File-based_use_case.png" alt="File-based use case diagram" width="400">
+<img src=".img/Platform design guidelines.png" alt="File-based use case diagram" width="400">
 </p>
 
